@@ -6,4 +6,5 @@
 				}
 			}
 			echo "La suma vale: $suma";
+			echo "La suma vale: $suma";
 		?>
